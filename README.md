@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Caleb-Kylib
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Tailwind CSS and JavaScript
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me lemayiancaleb18@gmail.com
+# 👋 Hi there, I'm Caleb Murero
 
-<!---
-Caleb-Kylib/Caleb-Kylib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Tech Enthusiast | 📚 Digital Marketer | 🛍️ Retail Specialist
+
+---
+
+🔭 I’m currently working on:
+- Selling curated office essentials via [Curated Essentials](https://instagram.com/curated_essentials)
+- Building digital tools to address youth unemployment in Nairobi
+- Learning CCNA and IBM's digital professional skills
+
+🌱 I’m currently learning:
+- Network Fundamentals (Cisco CCNA)
+- Front-end frameworks (React)
+- Automation with Python
+
+📫 How to reach me:
+- 📧 Email: yourname@example.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📷 Instagram: [@curated_essentials](https://instagram.com/curated_essentials)
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=calebmurero&show_icons=true&theme=radical)
+
+---
+
+### 📌 Skills & Tools
+
+```bash
+💻 Languages:     HTML | CSS | JavaScript | Python | SQL
+🛠️ Tools:         Git | GitHub | VS Code | Canva | Wix | POS Systems
+🌐 Platforms:     Instagram | Google Digital Garage | IBM Skills
