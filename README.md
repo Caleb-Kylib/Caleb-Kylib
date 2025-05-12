@@ -1,11 +1,10 @@
 # 👋 Hi there, I'm Caleb Murero
 
-### 💻 Tech Enthusiast | 📚 Digital Marketer | 🛍️ Retail Specialist
+### 💻 Tech Enthusiast | 📚 Frontend Developer
 
 ---
 
 🔭 I’m currently working on:
-- Selling curated office essentials via [Curated Essentials](https://instagram.com/curated_essentials)
 - Building digital tools to address youth unemployment in Nairobi
 - Learning CCNA and IBM's digital professional skills
 
