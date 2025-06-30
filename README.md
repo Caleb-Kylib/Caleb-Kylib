@@ -21,14 +21,6 @@ I'm passionate about crafting beautiful, user-focused websites and applications.
 
 ---
 
-## 🚀 Projects I'm Proud Of
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🏋️‍♂️ Gym Website](https://github.com/Caleb-Kylib/fitlab-gym) | A full responsive website for a fitness gym built with Wix, focused on weight lifting and cardio. | Wix, SEO |
-| [📚 Jefan Bookshop Tools](https://github.com/Caleb-Kylib) | Tools for inventory & POS management for a local bookshop. | POS, Sales Reports |
-| [🛒 Curated Essentials](https://www.instagram.com/curatedessentials/) | Branded office supplies store offering logo printing and product customization. | Marketing, E-commerce |
-
 > 🌐 More coming soon – currently building a modern React portfolio and landing pages for small businesses.
 
 ---
@@ -43,8 +35,7 @@ I'm passionate about crafting beautiful, user-focused websites and applications.
 ## 📬 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/calebmurero/)
-- 📧 Email: calebmurero@gmail.com
-- [Instagram – Curated Essentials](https://www.instagram.com/curatedessentials/)
+- 📧 Email: lemayiancaleb18@gmail.com
 
 ---
 
@@ -56,13 +47,9 @@ I'm passionate about crafting beautiful, user-focused websites and applications.
 
 
 
-
-
-
-
 ### 📌 Skills & Tools
 
 ```bash
-💻 Languages:     HTML | CSS | JavaScript | Python | SQL
-🛠️ Tools:         Git | GitHub | VS Code | Canva | Wix | POS Systems
-🌐 Platforms:     Instagram | Google Digital Garage | IBM Skills
+💻 Languages:     HTML | CSS | JavaScript | Python | SQL | PHP
+🛠️ Tools:         Git | GitHub | VS Code | Canva | Wix |
+🌐 Platforms:      | Google Digital Garage | IBM Skills
