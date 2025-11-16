@@ -2,7 +2,7 @@
 
 🎯 Front-End Developer | 🖥️ Web Designer | 📚 Lifelong Learner
 
-I'm passionate about crafting beautiful, user-focused websites and applications. With a background in **IT and digital marketing**, I blend technical skill with creativity to build responsive, accessible, and fast digital experiences.
+I'm passionate about crafting beautiful, user-focused websites and applications. With a background in **Web development and IT Support**, I blend my technical skills with creativity to build responsive, accessible, and fast digital experiences.
 
 ---
 
@@ -21,7 +21,7 @@ I'm passionate about crafting beautiful, user-focused websites and applications.
 
 ---
 
-> 🌐 More coming soon – currently building a modern React portfolio and landing pages for small businesses.
+> 🌐 More coming soon – currently building a modern React portfolio and interactive mobile responsivepages for small businesses.
 
 ---
 
@@ -34,7 +34,6 @@ I'm passionate about crafting beautiful, user-focused websites and applications.
 
 ## 📬 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/calebmurero/)
 - 📧 Email: lemayiancaleb18@gmail.com
 
 ---
