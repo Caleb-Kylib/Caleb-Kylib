@@ -46,9 +46,11 @@ I'm passionate about crafting beautiful, user-focused websites and applications.
 
 
 
-### 📌 Skills & Tools
+💻 Languages:        HTML | CSS | JavaScript | Python | TypeScript | PHP | SQL | Bash
+🧩 Frameworks:       React | Tailwind CSS | Bootstrap | Django | Flutter |
+🛠️ Tools:            Git | GitHub | VS Code | Postman | Figma | Canva | Node.js | NPM | Linux | Cisco Packet Tracer | Google Analytics
+                    
+🗄️ Databases:        Firebase | Supabase | Firestore | PostgreSQL | MySQL
+🌐 Platforms:        Google Digital Garage | ALX | IBM SkillsBuild | Cisco Networking Academy | Coursera
+🧰 Soft Skills:      Customer Service | Problem-solving | Communication
 
-```bash
-💻 Languages:     HTML | CSS | JavaScript | Python | SQL | PHP
-🛠️ Tools:         Git | GitHub | VS Code | Canva | Wix |
-🌐 Platforms:      | Google Digital Garage | IBM Skills
