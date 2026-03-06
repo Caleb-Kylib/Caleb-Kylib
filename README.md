@@ -47,6 +47,8 @@ I'm passionate about crafting beautiful, user-focused websites and applications.
 
 
 💻 Languages:        HTML | CSS | JavaScript | Python | TypeScript | PHP | SQL | Bash
+
+
 🧩 Frameworks:       React | Tailwind CSS | Bootstrap | Django | Flutter |
 🛠️ Tools:            Git | GitHub | VS Code | Postman | Figma | Canva | Node.js | NPM | Linux | Cisco Packet Tracer | Google Analytics
                     
