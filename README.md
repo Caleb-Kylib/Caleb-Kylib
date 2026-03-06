@@ -21,10 +21,6 @@ I'm passionate about crafting beautiful, user-focused websites and applications.
 
 ---
 
-> 🌐 More coming soon – currently building a modern React portfolio and interactive mobile responsivepages for small businesses.
-
----
-
 ## 📈 GitHub Stats
 
 ![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caleb-Kylib&show_icons=true&theme=react)
@@ -46,13 +42,4 @@ I'm passionate about crafting beautiful, user-focused websites and applications.
 
 
 
-💻 Languages:        HTML | CSS | JavaScript | Python | TypeScript | PHP | SQL | Bash
-
-
-🧩 Frameworks:       React | Tailwind CSS | Bootstrap | Django | Flutter |
-🛠️ Tools:            Git | GitHub | VS Code | Postman | Figma | Canva | Node.js | NPM | Linux | Cisco Packet Tracer | Google Analytics
-                    
-🗄️ Databases:        Firebase | Supabase | Firestore | PostgreSQL | MySQL
-🌐 Platforms:        Google Digital Garage | ALX | IBM SkillsBuild | Cisco Networking Academy | Coursera
-🧰 Soft Skills:      Customer Service | Problem-solving | Communication
 
