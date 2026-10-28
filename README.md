@@ -28,6 +28,9 @@ I'm passionate about crafting beautiful, user-focused websites and applications.
 ![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caleb-Kylib&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caleb-Kylib&layout=compact&theme=react)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Caleb-Kylib&theme=dark" alt="GitHub Streak" />
+</p>
 ---
 
 ## 📬 Connect With Me
