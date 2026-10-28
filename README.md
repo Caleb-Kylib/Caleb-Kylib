@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Caleb Murero
 
-🎯 Front-End Developer | 📚 Lifelong Learner
+🎯 Fullstack Developer | 📚 Lifelong Learner
 
 I'm passionate about crafting beautiful, user-focused websites and applications. I blend my technical skills with creativity to build responsive, accessible, and fast digital experiences.
 
