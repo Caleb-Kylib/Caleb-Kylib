@@ -1,8 +1,10 @@
-# 👋 Hey there, I'm Lemayian Murero
+# 👋 Hey there, I'm Caleb Murero
 
-🎯 Front-End Developer | 🖥️ Web Designer | 📚 Lifelong Learner
+🎯 Front-End Developer | 📚 Lifelong Learner
 
-I'm passionate about crafting beautiful, user-focused websites and applications. With a background in **Web development and IT Support**, I blend my technical skills with creativity to build responsive, accessible, and fast digital experiences.
+I'm passionate about crafting beautiful, user-focused websites and applications. I blend my technical skills with creativity to build responsive, accessible, and fast digital experiences.
+
+🌱 Currently learning Typescript, Angular, Laravel, Python and Cloud(GCP and AWS)
 
 ---
 
@@ -34,7 +36,7 @@ I'm passionate about crafting beautiful, user-focused websites and applications.
 
 ---
 
-> 💡 *"Building for the web is not just about code. It's about crafting experiences."*
+> 💡 *"A moving man will definetly meet his luck."*
 
 
 
